@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "838433386766",
+    "project_id": "clipchat-8c1a2",
+    "storage_bucket": "clipchat-8c1a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838433386766:android:b9d6362ffd98cb0552a75f",
+        "android_client_info": {
+          "package_name": "com.ab.clipchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838433386766-p4a1carsshfsno349cm4i37k02vqu06j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAisi6_SPK1mHOOcHan9P31wedehBKwDXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838433386766-p4a1carsshfsno349cm4i37k02vqu06j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

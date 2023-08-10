@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ClipChat</string>
+    <string name="title_home">Home</string>
+    <string name="title_github">GitHub</string>
+    <string name="title_videochat">Video Chat</string>
+    <string name="profile">Profile</string>
+    <string name="view_more">View More</string>
+    <string name="github_users">GitHub Users</string>
+    <string name="google_sign_in_web_client_id">838433386766-qnb4qu0pupaqknmj1giu8pusnuk2k8nf.apps.googleusercontent.com</string>
+    <string name="login_to_your_account">Log in to your account</string>
+    <string name="connect_people">Connect people around the world</string>
+    <string name="signin_with_google">Sign in with Google</string>
+    <string name="login_success">Logged In Successfully</string>
+    <string name="github_user_page">Github User Page</string>
+    <string name="device_offline">Device Offline</string>
+</resources>
